@@ -116,14 +116,14 @@ The question I care about most comes after training: **how far can we trust $u_\
 - **KKL observers + stochastic NMPC** for neuromuscular co-contraction, in Julia
 - **A research assistant for my team**: retrieval-augmented generation over our publications
 
-### 📚 Recently on my desk
+### 📚 Books on my desk
 
-- *Transformers for dynamical systems learn transfer operators in-context*
-- *FunDiff: diffusion models over function spaces for physics-informed generative modeling*
-- *Physics-Informed Neural Operator for Learning Partial Differential Equations*
-- *Mamba Sequence Modeling meets Model Predictive Control*
-- *Conformal Prediction Beyond Exchangeability*
-- *When Does LeJEPA Learn a World Model?*
+- *Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control*, Steven L. Brunton & J. Nathan Kutz
+- *Observer Design for Nonlinear Systems*, Pauline Bernard
+- *Mathematical Foundations of Deep Learning: Theory and Algorithms*, Xiaojing Ye
+- *The Elements of Statistical Learning*, Trevor Hastie, Robert Tibshirani & Jerome Friedman
+- *Time Series with PyTorch*, Graeme Davidson & Lei Ma
+- *50 ML Projects to Understand LLMs*, Mike X Cohen
 
 ### 🎓 Background
 
