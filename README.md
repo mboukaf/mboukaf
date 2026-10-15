@@ -13,6 +13,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 -->
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/observer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/observer-light.svg">
+  <img alt="Animation: a learned observer starts from a wrong initial guess and locks onto the true state of a Van der Pol oscillator while the estimation error drops by more than two orders of magnitude" src="assets/observer-light.svg" width="100%">
+</picture>
+
+<sub>A neural-network observer I trained, rebuilding the full state of a Van der Pol oscillator from a single noisy, delayed measurement.</sub>
+
 </div>
 
 ---
