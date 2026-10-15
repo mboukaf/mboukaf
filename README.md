@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mohamed Boukaf 👋
+# Hi, I'm Mohamed Boukaf 
 
 <a href="https://github.com/mboukaf">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Scientific+machine+learning;Physics-informed+%C2%B7+uncertainty-aware+%C2%B7+certified;Teaching+neural+networks+some+physics;Learning+dynamics%2C+observers+%26+controllers" alt="Scientific machine learning · Physics-informed, uncertainty-aware, certified" />
