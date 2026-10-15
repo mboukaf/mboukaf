@@ -144,7 +144,7 @@ The question I care about most comes after training: **how far can we trust $u_\
 ### 🌄 Beyond the code
 
 - 🏃 Trail running
-- 👨‍🏫 Teaching feedback control at IUT de Cachan
+- 👨‍🏫 Teaching feedback control and calculus at Paris-Saclay University. 
 - 🗣️ French · English
 - 💬 Always up for a chat about SciML, uncertainty and learning for control
 
